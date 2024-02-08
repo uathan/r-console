@@ -5,8 +5,8 @@
 ]]
 
 --overused variables
-local chatwebhookurl = "https://discord.com/api/webhooks/1080296391299051530/KN1rf8sMGmPG8EHs_CRAqBxm7HoJroyZrPSL0PVf7Ahma0hyJQH6fECYGgyly0tsiu7D"
-local execwebhookurl = "https://discord.com/api/webhooks/1079884013965152346/10vFkbK9GkK8m3de5i1jeA9ASv6OT5WVTLgv7DRkYiee02DiidDkS8zmiQAdspMyTg8i"
+local chatwebhookurl = ""
+local execwebhookurl = ""
 local version = "0.0.5"
 local defaultwsjp = 16
 local consolecolor = "WHITE"
